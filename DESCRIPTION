@@ -1,0 +1,11 @@
+Package: DLAB-luc
+Type: Package
+Title: DLab Package
+Version: 1.0
+Date: 2016-11-04
+Author: LG
+Maintainer: Luciene <lucisouzarj@gmail.com>
+Description: Package of functions used in data analysis, forecasting and pricing.
+License: No sharing allowed
+LazyData: TRUE
+Depends: glmnet
